@@ -1,0 +1,44 @@
+# Maven/Gradle build files
+target/
+build/
+
+# IDE configuration files
+*.iml
+.idea/
+*.iws
+*.swp
+*.vs/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+
+# Maven dependencies
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# Sensitive configuration files
+.env
+application.properties
+
+# Node.js dependencies (for frontend)
+node_modules/
+
+# Compiled classes and binaries
+*.class
+*.jar
+*.war
+*.ear
